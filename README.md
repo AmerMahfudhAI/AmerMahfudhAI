@@ -9,39 +9,53 @@
 ---
 
 ## 👨‍💻 About Me
-I’m **Amer Mahfudh**, a Data Scientist & Machine Learning Engineer with experience in:  
+I’m **Amer Mahfudh**, a Data Scientist & Machine Learning Engineer experienced in:  
 **ML/DL, Data Analysis, Geospatial Data, and Backend Development (NestJS & PostgreSQL)**.  
 
-I build intelligent data-driven systems, optimize algorithms, and develop scalable backend architectures.  
-Strong problem-solving skills and competitive programming background. Focused on **clean code, efficiency, and innovation**.
+I specialize in building intelligent, data-driven systems, optimizing algorithms, and creating scalable backend architectures.  
+Strong problem-solving skills with competitive programming experience. Focused on **clean code, efficiency, and innovation**.
 
 ---
 
 # 🛠️ Skills & Tools
 
-### 🚀 Languages  
+### 🚀 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,cs" />
+  <img src="https://img.shields.io/badge/Python-90%25-00fff7?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-85%25-9b59b6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-80%25-00ffff?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-75%25-ff00ff?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-70%25-ff2d95?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-### 🤖 AI / ML  
+### 🤖 AI / ML
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-85%25-ff6f61?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-80%25-ff6f61?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-85%25-e61b4b?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-90%25-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-95%25-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-95%25-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### 🖥️ Backend  
+### 🖥️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,postgres,mongodb" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NestJS-85%25-ff2d95?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-85%25-83cd29?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-80%25-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-80%25-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-75%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-75%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 🧰 Tools  
+### 🧰 Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,vscode" />
+  <img src="https://img.shields.io/badge/Git-90%25-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-90%25-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-85%25-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-80%25-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-80%25-ff6c37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-85%25-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -62,21 +76,21 @@ Strong problem-solving skills and competitive programming background. Focused on
 # 🚀 Featured Projects
 
 ## 🔹 **Advanced Backend System - NestJS & PostgreSQL**
-- JWT authentication & role-based access
-- Product & Review management
-- Email verification & password reset
-- Swagger API docs & end-to-end testing
+- JWT auth & role-based access  
+- Product & Review management  
+- Email verification & password reset  
+- Swagger API docs & e2e testing  
 - Clean, scalable architecture  
 **Tech:** NestJS, PostgreSQL, TypeORM, Supertest
 
 ## 🔹 **TSP Logistics Optimization**
-- Flask API for truck route optimization
-- Dijkstra + DP + Genetic Algorithm
+- Flask API for truck route optimization  
+- Dijkstra + DP + Genetic Algorithm  
 - Efficient package distribution  
 **Tech:** Python, Flask, Algorithms, Optimization
 
 ## 🔹 **E-Commerce Backend - NestJS**
-- User auth, products, orders, reviews
+- User auth, products, orders, reviews  
 - Secure & scalable backend  
 **Tech:** NestJS, PostgreSQL, JWT, TypeORM
 
